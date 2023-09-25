@@ -1,0 +1,8 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pl.msiwak.multiplatform.auth" >
+4
+5    <uses-sdk android:minSdkVersion="24" />
+5-->/Users/msiwak/StudioProjects/testmulti/shared/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest9065922199033050621.xml
+6
+7</manifest>

@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml:2:13-83
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml:2:13-83
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml:2:13-83
+	package
+		INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+		ADDED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml:2:13-83
+		INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+	xmlns:android
+		ADDED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml:2:23-81
+uses-sdk
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml reason: use-sdk injection requested
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+	android:targetSdkVersion
+		INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+		ADDED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+		INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+	android:minSdkVersion
+		INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+		ADDED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
+		INJECTED from /Users/msiwak/StudioProjects/testmulti/shared/commonObject/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest10896170205751783701.xml
